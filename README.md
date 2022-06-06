@@ -17,7 +17,7 @@
 ### - 🌱 My interests lies in : Competitive Coding, Machine Learning 🤖, and Web Development 🖥️
 ### - 👯 I’m looking to collaborate for: Hackathons, and other team competitions (Feel free to reach out) 🤗 
 ### - 💬 Ask me about ...
-      -  DSA (Especially  graphs, I love solving graph problems 😁)
+      -  DSA 
       -  Full Stack Development
 ### - 📫 How to reach me: ...
   linkedIn profile: [Anu Sharma](https://www.linkedin.com/in/anu-sharma-2002/) Don't be shy, let's connect! 🤝
