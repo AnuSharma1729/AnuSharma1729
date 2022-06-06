@@ -18,12 +18,12 @@
 ### - 👯 I’m looking to collaborate for: Hackathons, and other team competitions (Feel free to reach out) 🤗 
 ### - 💬 Ask me about ...
       -  DSA (Especially  graphs, I love solving graph problems 😁)
-      - Machine Learning related concepts (I'm still learning this but yeah I'd be happy to help 🤷‍♀️)
+      -  Full Stack Development
 ### - 📫 How to reach me: ...
   linkedIn profile: [Anu Sharma](https://www.linkedin.com/in/anu-sharma-2002/) Don't be shy, let's connect! 🤝
 ### - 😄 Pronouns: She/her/hers 👧
 ### - 💪 Values that I stand for:
-       - Equal Education for all (I'm an educator at Rise All Founation)
+       - Equal Education for all (I'm an educator at Rise All Foundation)
        - Sustainable development (Save the planet 🌏)
        - Diversity and inclusion (Let's make the world an equal space ✨)
 ### - ⚡ Fun fact:
