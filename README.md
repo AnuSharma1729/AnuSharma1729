@@ -5,7 +5,7 @@
 ## :wave: About Me 
 <a href="https://twitter.com/O_Anu_O" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<a href="[(https://www.linkedin.com/in/anu-sharma-2002/)](https://www.linkedin.com/in/anu-sharma-2002/)" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/anu-sharma-2002/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 👩‍🎓 Hey! I'm Anu, a junior at Indira Gandhi Delhi Technological University, pursuing my major in Computer Science and Engineering. My preferred pronouns are **she/her/hers**.
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. Along with this I'm also highly interested in machine learning and have built quite a few projects on it related to social and mental health issues.
